@@ -1,0 +1,44 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "Ashraf Ali",
+      "email": "ahraf@gmail.com",
+      "photo": "https://cdn.imgbin.com/14/24/20/imgbin-programmer-computer-programming-open-programming-language-programmer-gvdC96xMhHDLMzXEvPUN2T84E.jpg",
+      "skillId": "3"
+    },
+    {
+      "id": 2,
+      "name": "Ashraf Ali",
+      "email": "ahraf@gmail.com",
+      "photo": "https://cdn.imgbin.com/14/24/20/imgbin-programmer-computer-programming-open-programming-language-programmer-gvdC96xMhHDLMzXEvPUN2T84E.jpg",
+      "skillId": "3"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "name": "Laravel Developer"
+    },
+    {
+      "id": 2,
+      "name": "Java Developer"
+    },
+    {
+      "id": 3,
+      "name": "React Developer"
+    },
+    {
+      "id": 4,
+      "name": "IOS Developer"
+    },
+    {
+      "id": 5,
+      "name": "Django Developer"
+    },
+    {
+      "id": 6,
+      "name": "Python Developer"
+    }
+  ]
+}
